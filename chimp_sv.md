@@ -6,7 +6,7 @@ AG18359 ONT raw
 https://bioshare.bioinformatics.ucdavis.edu/bioshare/download/57pmbknqa3easyj/AG18359_ONT/AG18359.2018.08.29.tar.gz
 
 AG18359 ONT fastq
-https://bioshare.bioinformatics.ucdavis.edu/bioshare/download/57pmbknqa3easyj/AG18359_ONT/chimp.fastq.gz
+https://bioshare.bioinformatics.ucdavis.edu/bioshare/download/rlc692m7tk5cibb/manuscripts/chimp_sv/AG18359_ONT/AG18359.2018.08.29.fastq.gz
 
 ### BNG data
 AG18359 BNG raw
