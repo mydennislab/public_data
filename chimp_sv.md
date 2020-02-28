@@ -1,5 +1,6 @@
 ## Identification of structural variation in chimpanzees using optical mapping and nanopore sequencing
 
+#### Nanopore
 ONT data
 AG18359 ONT raw
 https://bioshare.bioinformatics.ucdavis.edu/bioshare/download/57pmbknqa3easyj/AG18359_ONT/AG18359.2018.08.29.tar.gz
@@ -14,6 +15,8 @@ https://bioshare.bioinformatics.ucdavis.edu/bioshare/download/57pmbknqa3easyj/AG
 S003641 BNG raw
 https://bioshare.bioinformatics.ucdavis.edu/bioshare/download/57pmbknqa3easyj/S003641_BNG/S003641_RawMolecules.bnx.tar.gz
 
+#### Illumina 
+
 Illumina WGS data
 AG18359 Illumina fastq R1
 https://bioshare.bioinformatics.ucdavis.edu/bioshare/download/57pmbknqa3easyj/AG18359_ILL/AG18359_USD16090428L_HKGF3DSXX_L4_1.fq.gz
@@ -26,3 +29,5 @@ https://bioshare.bioinformatics.ucdavis.edu/bioshare/download/57pmbknqa3easyj/S0
 
 S003641 Illumina fastq R2
 https://bioshare.bioinformatics.ucdavis.edu/bioshare/download/57pmbknqa3easyj/S003641_ILL/S003641_S11_L002_R2_001.fastq.gz
+
+#### Hi-C
