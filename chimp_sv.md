@@ -30,3 +30,17 @@ https://bioshare.bioinformatics.ucdavis.edu/bioshare/download/57pmbknqa3easyj/S0
 
 ### Illumina Hi-C data
 
+GM20543_Hi-C
+https://bioshare.bioinformatics.ucdavis.edu/bioshare/view/Dennis_seq/manuscripts/chimp_sv/GM20543_Hi-C
+
+S007602_Hi-C
+https://bioshare.bioinformatics.ucdavis.edu/bioshare/view/Dennis_seq/manuscripts/chimp_sv/S007602_Hi-C
+
+GM12878_Hi-C
+https://bioshare.bioinformatics.ucdavis.edu/bioshare/view/Dennis_seq/manuscripts/chimp_sv/GM12878_Hi-C
+
+AG18359_Hi-C
+https://bioshare.bioinformatics.ucdavis.edu/bioshare/view/Dennis_seq/manuscripts/chimp_sv/AG18359_Hi-C
+
+GM20818_Hi-C
+https://bioshare.bioinformatics.ucdavis.edu/bioshare/view/Dennis_seq/manuscripts/chimp_sv/GM20818_Hi-C
