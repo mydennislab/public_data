@@ -18,8 +18,7 @@ Citation:
 
 [AG18359 Illumina fastq R2](https://bioshare.bioinformatics.ucdavis.edu/bioshare/download/57pmbknqa3easyj/AG18359_ILL/AG18359_USD16090428L_HKGF3DSXX_L4_2.fq.gz)
 
-S003641 Illumina fastq R1
-https://bioshare.bioinformatics.ucdavis.edu/bioshare/download/57pmbknqa3easyj/S003641_ILL/S003641_S11_L002_R1_001.fastq.gz
+[S003641 Illumina fastq R1](https://bioshare.bioinformatics.ucdavis.edu/bioshare/download/57pmbknqa3easyj/S003641_ILL/S003641_S11_L002_R1_001.fastq.gz)
 
 [S003641 Illumina fastq R2](https://bioshare.bioinformatics.ucdavis.edu/bioshare/download/57pmbknqa3easyj/S003641_ILL/S003641_S11_L002_R2_001.fastq.gz)
 
