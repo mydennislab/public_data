@@ -1,5 +1,7 @@
 ## Identification of structural variation in chimpanzees using optical mapping and nanopore sequencing
 
+Citation:
+[Identification of Structural Variation in Chimpanzees Using Optical Mapping and Nanopore Sequencing](https://www.ncbi.nlm.nih.gov/pubmed/32143403). Soto DC*, Shew C*, Mastoras M, Schmidt JM, Sahasrabudhe R, Kaya G, Andrés AM, Dennis MY. Genes (Basel). 2020 Mar 4;11(3). 
 
 ### ONT data
 AG18359 ONT raw
