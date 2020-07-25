@@ -1,7 +1,7 @@
 ## Assessment of autism zebrafish mutant models using a high-throughput larval phenotyping platform 
 
 Citation:
-[Assessment of autism zebrafish mutant models using a high-throughput larval phenotyping platform](biorxiv link here). 
+[Assessment of autism zebrafish mutant models using a high-throughput larval phenotyping platform](https://www.biorxiv.org/content/10.1101/2020.07.23.217273v1). 
 
 ### CIRCLE-seq raw data
 
