@@ -13,6 +13,13 @@ Citation:
 
 [S003641 BNG raw](https://bioshare.bioinformatics.ucdavis.edu/bioshare/download/57pmbknqa3easyj/S003641_BNG/S003641_RawMolecules.bnx.tar.gz)
 
+## BNG CMAPs
+
+Generated with Solve 3.4.1.
+
+[AG18359 CMAP](https://bioshare.bioinformatics.ucdavis.edu/bioshare/download/rlc692m7tk5cibb/manuscripts/chimp_sv/AG18359_CMAP/AG18359.EXP_REFINEFINAL1.cmap)
+[S003641 CMAP](https://bioshare.bioinformatics.ucdavis.edu/bioshare/download/rlc692m7tk5cibb/manuscripts/chimp_sv/S003641_CMAP/S003641.EXP_REFINEFINAL1.cmap)
+
 ### Illumina WGS data
 [AG18359 Illumina fastq R1](https://bioshare.bioinformatics.ucdavis.edu/bioshare/download/57pmbknqa3easyj/AG18359_ILL/AG18359_USD16090428L_HKGF3DSXX_L4_1.fq.gz)
 
