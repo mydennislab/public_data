@@ -9,3 +9,6 @@ Repository for links to publicly available data from Dennis lab publications
 
 ### 2021_hsd_noncoding.md
 - Data for: ["Divergent molecular mechanisms contribute to differential expression of human duplicated genes", Shew et al. (2021)](https://pubmed.ncbi.nlm.nih.gov/34009325)
+
+## 2022_zfish_CRISPR.md
+- Data for: ["Evaluation of CRISPR gene-editing tools in zebrafish"](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-08238-1)
